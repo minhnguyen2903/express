@@ -1,7 +1,9 @@
 const express = require("express");
 const router = express.Router();
 const users = require("../controllers/user.controller.js");
+const verityToken = require("../middleware/verifyToken.js");
 
+router.use(verityToken);
 router.post("/create", users.create);
 // Create a new Tutorial
 

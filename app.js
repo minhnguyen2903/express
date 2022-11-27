@@ -1,12 +1,12 @@
 const createError = require("http-errors");
 const express = require("express");
+const bodyParser = require("body-parser");
 const path = require("path");
 const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const cors = require("cors");
-const bodyParser = require("body-parser");
 const swaggerUi = require("swagger-ui-express");
-
+const verityToken = require("./middleware/verifyToken");
 const indexRouter = require("./routes/index");
 const usersRouter = require("./routes/users");
 const authRouter = require("./routes/auth");
@@ -31,8 +31,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
-// app.use(bodyParser());
-
 const db = require("./models");
 
 db.sequelize
@@ -46,8 +44,7 @@ db.sequelize
   });
 
 app.use("/api-docs", swaggerUi.serve);
-
-app.use("/api/v1", indexRouter);
+app.use("/", indexRouter);
 app.use("/api/v1/auth", authRouter);
 app.use("/api/v1/invoices", invoiceRouter);
 app.use("/api/v1/users", usersRouter);
