@@ -1,0 +1,2691 @@
+{
+  "vocabularies": [
+    {
+      "english": "Competitor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Đối thủ cạnh tranh"
+    },
+    {
+      "english": "Corporation",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tập đoàn"
+    },
+    {
+      "english": "Employ",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thuê, tuyển dụng"
+    },
+    {
+      "english": "Employee",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Người làm công"
+    },
+    {
+      "english": "Establish",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thành lập"
+    },
+    {
+      "english": "Graphic processing units",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Bộ sử lý đồ họa"
+    },
+    {
+      "english": "Headquarters",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Đặt trụ sở"
+    },
+    {
+      "english": "Head office",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Trụ sở chính"
+    },
+    {
+      "english": "Mission",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Nhiệm vụ, sứ mệnh"
+    },
+    {
+      "english": "Multinational",
+
+      "desImg": "",
+      "type": "(adj)",
+      "vietnamese": "Đa quốc gia"
+    },
+    {
+      "english": "Operate",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Hoạt động"
+    },
+    {
+      "english": "Revenue",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Doanh thu"
+    },
+    {
+      "english": "Segment",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Phân khúc (thị trường)"
+    },
+    {
+      "english": "Semiconductor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Chất bán dẫn"
+    },
+    {
+      "english": "Specialize",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Chuyên (về 1 lĩnh vực)"
+    },
+    {
+      "english": "Subsidiary",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Công ty con"
+    },
+    {
+      "english": "Direction",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Phuơng hướng"
+    },
+    {
+      "english": "Culture",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Văn hóa"
+    },
+    {
+      "english": "Encourage",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Khuyến khích"
+    },
+    {
+      "english": "Focus",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Tiêu điểm"
+    },
+    {
+      "english": "Respect",
+
+      "desImg": "",
+      "type": "(n, v)",
+      "vietnamese": "Tôn trọng"
+    },
+    {
+      "english": "Reward",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Phần thưởng"
+    },
+    {
+      "english": "Mission",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Nhiệm vụ"
+    },
+    {
+      "english": "Home applicance",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Dụng cụ gia đình"
+    },
+    {
+      "english": "Graphics processing unit",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Đơn vị xử lí đồ họa"
+    },
+    {
+      "english": "Goal",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Mục tiêu"
+    },
+    {
+      "english": "Found",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Thành lập"
+    },
+    {
+      "english": "Consumer electronics",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Điện tử dân dụng"
+    },
+    {
+      "english": "Consider( as)",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Xem xét"
+    },
+    {
+      "english": "Innovation",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Sự đổi mới"
+    },
+    {
+      "english": "Integrity",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Chính trực"
+    },
+    {
+      "english": "Revenue",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Doanh thu"
+    },
+    {
+      "english": "January",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 1"
+    },
+    {
+      "english": "February",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 2"
+    },
+    {
+      "english": "March",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 3"
+    },
+    {
+      "english": "April",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 4"
+    },
+    {
+      "english": "May",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 5"
+    },
+    {
+      "english": "June",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 6"
+    },
+    {
+      "english": "July",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 7"
+    },
+    {
+      "english": "August",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 8"
+    },
+    {
+      "english": "September",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 9"
+    },
+    {
+      "english": "October",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 10"
+    },
+    {
+      "english": "November",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 11"
+    },
+    {
+      "english": "December",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tháng 12"
+    },
+    {
+      "english": "Monday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thứ 2"
+    },
+    {
+      "english": "Tuesday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thứ 3"
+    },
+    {
+      "english": "Wednesday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thứ 4"
+    },
+    {
+      "english": "Thursday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thứ 5"
+    },
+    {
+      "english": "Friday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thứ 6"
+    },
+    {
+      "english": "Saturday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thứ 7"
+    },
+    {
+      "english": "Sunday",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Chủ nhật"
+    },
+    {
+      "english": "Research",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự nghiên cứu"
+    },
+    {
+      "english": "Customer",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khách hàng"
+    },
+    {
+      "english": "Discussion",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cuộc thảo luận"
+    },
+    {
+      "english": "Situation",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tình huống"
+    },
+    {
+      "english": "Hopeless",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Vô vọng"
+    },
+    {
+      "english": "Unemployment",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự thất nghiệp"
+    },
+    {
+      "english": "Trade",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hoạt động buôn bán"
+    },
+    {
+      "english": "Abroad",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ở nước ngoài"
+    },
+    {
+      "english": "Recover",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phục hồi"
+    },
+    {
+      "english": "Average",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Trung bình"
+    },
+    {
+      "english": "Professional",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chuyên nghiệp"
+    },
+    {
+      "english": "Advise",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lời khuyên"
+    },
+    {
+      "english": "Percent",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phần trăm"
+    },
+    {
+      "english": "Currency",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tiền tệ"
+    },
+    {
+      "english": "Transfer",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chuyển đổi"
+    },
+    {
+      "english": "Advanced",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nâng cao"
+    },
+    {
+      "english": "Degree",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bằng (đại học)"
+    },
+    {
+      "english": "Lecture",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bài giảng"
+    },
+    {
+      "english": "Further",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thêm"
+    },
+    {
+      "english": "Qualification",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bằng cấp"
+    },
+    {
+      "english": "Presentation",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bài thuyết trình"
+    },
+    {
+      "english": "Instructor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Người hướng dẫn"
+    },
+    {
+      "english": "Major",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chuyên ngành"
+    },
+    {
+      "english": "Socially",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mang tính xã hội"
+    },
+    {
+      "english": "Attention",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự chú ý"
+    },
+    {
+      "english": "Viral",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lan truyền nhanh"
+    },
+    {
+      "english": "Advertisement",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Quảng cáo"
+    },
+    {
+      "english": "Reliablie",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đáng tin"
+    },
+    {
+      "english": "Profitable",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đem lại lợi nhuận"
+    },
+    {
+      "english": "Conplain",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phàn nàn"
+    },
+    {
+      "english": "Unnecessary",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Không cần thiết"
+    },
+    {
+      "english": "Opinion",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ý kiến"
+    },
+    {
+      "english": "Access",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Quyền truy cập"
+    },
+    {
+      "english": "Swipe",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lướt màn hình"
+    },
+    {
+      "english": "Lightning",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tia chớp"
+    },
+    {
+      "english": "Advanced",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tân tiến"
+    },
+    {
+      "english": "Extremely",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cực kì"
+    },
+    {
+      "english": "Technology",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Công nghệ"
+    },
+    {
+      "english": "Totally",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Một cách hoàn toàn"
+    },
+    {
+      "english": "Outdated",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lỗi thời"
+    },
+    {
+      "english": "Judge",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đánh giá"
+    },
+    {
+      "english": "Attitude",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thái độ"
+    },
+    {
+      "english": "Cruel",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tàn nhẫn"
+    },
+    {
+      "english": "Ordinary",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tình huống"
+    },
+    {
+      "english": "Especially",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đặc biệt là"
+    },
+    {
+      "english": "Fear",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nỗi sợ"
+    },
+    {
+      "english": "Disease",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bệnh tật"
+    },
+    {
+      "english": "Suffer",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chịu đựng"
+    },
+    {
+      "english": "Cancer",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ung thư"
+    },
+    {
+      "english": "Seriously",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Một cách nghiêm trọng"
+    },
+    {
+      "english": "Accelerometer sensor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Cảm biến gia tốc"
+    },
+    {
+      "english": "Gyroscope sensor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Cảm biến đo khí áp"
+    },
+    {
+      "english": "Barometer sensor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Cảm biến con quay hồi chuyển"
+    },
+    {
+      "english": "Motion sensor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cảm biến chuyển động"
+    },
+    {
+      "english": "Activate",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Kích hoạt"
+    },
+    {
+      "english": "Adjust",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Điều chỉnh"
+    },
+    {
+      "english": "Attach",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Gắn"
+    },
+    {
+      "english": "Certify",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Chứng nhận"
+    },
+    {
+      "english": "Command",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Mệnh lệnh"
+    },
+    {
+      "english": "Compatible",
+
+      "desImg": "",
+      "type": "(adj)",
+      "vietnamese": "Tương thích"
+    },
+    {
+      "english": "Control panel",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Bảng điều khiển"
+    },
+    {
+      "english": "Detect",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Phát hiện"
+    },
+    {
+      "english": "Diameter",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Đường kính"
+    },
+    {
+      "english": "Feature",
+
+      "desImg": "",
+      "type": "(n, v)",
+      "vietnamese": "Nổi bật"
+    },
+    {
+      "english": "Gadget",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Thiết bị cải tiến"
+    },
+    {
+      "english": "Global Positioning System (GPS)",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Hệ thống định vị toàn cầu"
+    },
+    {
+      "english": "Infrared (IR)",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tia hồng ngoại"
+    },
+    {
+      "english": "Ingress Protection(IP)",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Chuẩn chống bụi/nước của thiết bị điện tử"
+    },
+    {
+      "english": "Intergrate",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Tích hợp"
+    },
+    {
+      "english": "Monitor",
+
+      "desImg": "",
+      "type": "(n, v)",
+      "vietnamese": "Giám sát"
+    },
+    {
+      "english": "Operating system (OS)",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Hệ điều hành"
+    },
+    {
+      "english": "Predecessor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Sản phảm trước dùng dòng"
+    },
+    {
+      "english": "Processor",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Bộ xử lí"
+    },
+    {
+      "english": "Recognition",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Chức năng nhận diện"
+    },
+    {
+      "english": "Resistence",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Tính chống chịu"
+    },
+    {
+      "english": "Resolution",
+
+      "desImg": "",
+      "type": "(n)",
+      "vietnamese": "Độ phân giải"
+    },
+    {
+      "english": "Synchronization",
+
+      "desImg": "",
+      "type": "(v)",
+      "vietnamese": "Sự đồng bộ hóa"
+    },
+    {
+      "english": "Track",
+
+      "desImg": "",
+      "type": "(bb)",
+      "vietnamese": "Theo dõi"
+    },
+    {
+      "english": "Waterproof",
+
+      "desImg": "",
+      "type": "(adj)",
+      "vietnamese": "Chống nước"
+    },
+    {
+      "english": "Distraction",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phân vân"
+    },
+    {
+      "english": "Conducted",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tiến hành"
+    },
+    {
+      "english": "Experiment",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thử nghiệm"
+    },
+    {
+      "english": "Influence",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ảnh hưởng"
+    },
+    {
+      "english": "Ability",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khả năng"
+    },
+    {
+      "english": "Particular",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cụ thể"
+    },
+    {
+      "english": "Symptom",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Triệu chứng"
+    },
+    {
+      "english": "Root",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nguồn gốc"
+    },
+    {
+      "english": "Stimulate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kích thích"
+    },
+    {
+      "english": "Reservation",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dự phòng"
+    },
+    {
+      "english": "Curiously",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tò mò"
+    },
+    {
+      "english": "Stereotype",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khuôn mẫu"
+    },
+    {
+      "english": "External conditions",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Điều kiện bên ngoài"
+    },
+    {
+      "english": "Blame",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khiển trách"
+    },
+    {
+      "english": "Infant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Trẻ sơ sinh"
+    },
+    {
+      "english": "Across",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Băng qua, đi qua"
+    },
+    {
+      "english": "Geek",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ham vui"
+    },
+    {
+      "english": "Acquire",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Có được, thu được"
+    },
+    {
+      "english": "Mentor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cố vấn"
+    },
+    {
+      "english": "Celebrity",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Người nổi tiếng"
+    },
+    {
+      "english": "Mindset",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tư duy"
+    },
+    {
+      "english": "Sustainable",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bền vững"
+    },
+    {
+      "english": "Organic",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hữu cơ"
+    },
+    {
+      "english": "Community",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cộng đồng"
+    },
+    {
+      "english": "Rush",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Vội vàng"
+    },
+    {
+      "english": "Humble",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khiêm tốn"
+    },
+    {
+      "english": "Investor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chủ đầu tư"
+    },
+    {
+      "english": "Elevator",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thang máy"
+    },
+    {
+      "english": "Convince",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thuyết phục"
+    },
+    {
+      "english": "Persevere",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kiên nhẫn"
+    },
+    {
+      "english": "Ambition",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tham vọng"
+    },
+    {
+      "english": "Toughen",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cứng rắn"
+    },
+    {
+      "english": "Fascinate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mê hoặc"
+    },
+    {
+      "english": "Consider",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xem xét"
+    },
+    {
+      "english": "Obvious",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hiển nhiên"
+    },
+    {
+      "english": "Adult",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Người lớn"
+    },
+    {
+      "english": "Behavior",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hành vi"
+    },
+    {
+      "english": "Revolution",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cuộc cách mạng"
+    },
+    {
+      "english": "Direction",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phương hướng"
+    },
+    {
+      "english": "Humiliate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Làm nhục"
+    },
+    {
+      "english": "Thieves",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kẻ trộm"
+    },
+    {
+      "english": "Infamous",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khét tiếng"
+    },
+    {
+      "english": "Brutal",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tàn bạo"
+    },
+    {
+      "english": "Stubborn",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bướng bỉnh"
+    },
+    {
+      "english": "Bone",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khúc xương"
+    },
+    {
+      "english": "Starve",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bỏ đói"
+    },
+    {
+      "english": "Slaves",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nô lệ"
+    },
+    {
+      "english": "Minority",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiểu số"
+    },
+    {
+      "english": "Fate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Số phận"
+    },
+    {
+      "english": "Universe",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Vũ trụ"
+    },
+    {
+      "english": "Seperated",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ly thân"
+    },
+    {
+      "english": "Immortal",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bất diệt"
+    },
+    {
+      "english": "Abandon",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bỏ rơi"
+    },
+    {
+      "english": "Peak",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đỉnh cao"
+    },
+    {
+      "english": "Proper",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thích hợp"
+    },
+    {
+      "english": "Treasure",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kho báu"
+    },
+    {
+      "english": "Ordinary",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tầm thường"
+    },
+    {
+      "english": "Complicate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phức tạp"
+    },
+    {
+      "english": "Supervision",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Giám sát"
+    },
+    {
+      "english": "Related",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Liên quan"
+    },
+    {
+      "english": "Restriction",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hạn chế"
+    },
+    {
+      "english": "Accociated",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Liên kết"
+    },
+    {
+      "english": "Assistant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Trợ lý"
+    },
+    {
+      "english": "Acoholism",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chứng nghiện rượu"
+    },
+    {
+      "english": "Risk",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Rủi ro"
+    },
+    {
+      "english": "Tendency",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xu hướng"
+    },
+    {
+      "english": "Apolicy",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chính sách"
+    },
+    {
+      "english": "Divorce",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ly dị"
+    },
+    {
+      "english": "Intention",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mục đích"
+    },
+    {
+      "english": "Reflective",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự nghi ngờ"
+    },
+    {
+      "english": "Genuine",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự xác thực"
+    },
+    {
+      "english": "Precaution",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự phòng ngừa"
+    },
+    {
+      "english": "Intimate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự thân mật"
+    },
+    {
+      "english": "Pandamic",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dịch bệnh"
+    },
+    {
+      "english": "Downside",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nhược điểm"
+    },
+    {
+      "english": "Audience",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khán giả"
+    },
+    {
+      "english": "Upset",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Buồn bã"
+    },
+    {
+      "english": "Absorb",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hấp thụ"
+    },
+    {
+      "english": "Blow",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nổ, cháy"
+    },
+    {
+      "english": "Clog",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kẹt"
+    },
+    {
+      "english": "Condense",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ngưng tụ"
+    },
+    {
+      "english": "Dismantle",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tháo rời"
+    },
+    {
+      "english": "Drain",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xả nước, tháo nước"
+    },
+    {
+      "english": "Kink",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thắt, gập"
+    },
+    {
+      "english": "Lubricate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tra dầu"
+    },
+    {
+      "english": "Maintain",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bảo trì"
+    },
+    {
+      "english": "Overhaul",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đại tu"
+    },
+    {
+      "english": "Rinse",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Rửa, xả"
+    },
+    {
+      "english": "Tear",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Rách, đứt"
+    },
+    {
+      "english": "Wear out",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mòn"
+    },
+    {
+      "english": "Blower",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Quạt thông gió"
+    },
+    {
+      "english": "Breaker",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ ngắt điện"
+    },
+    {
+      "english": "Coil",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cuộn dây"
+    },
+    {
+      "english": "Compressor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Máy nén"
+    },
+    {
+      "english": "Coolant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chất làm lạnh"
+    },
+    {
+      "english": "Cycle",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chu kì"
+    },
+    {
+      "english": "Detergent",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xà phòng"
+    },
+    {
+      "english": "Duct",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đường dây, ống cáp"
+    },
+    {
+      "english": "Evaporator",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dàn lạnh"
+    },
+    {
+      "english": "Filter",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ lọc"
+    },
+    {
+      "english": "Fin",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cánh tản nhiệt"
+    },
+    {
+      "english": "Hose",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ống"
+    },
+    {
+      "english": "Maintenance",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự bảo trì"
+    },
+    {
+      "english": "Radiator",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ tản nhiệt"
+    },
+    {
+      "english": "Sealant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chất bít, chất trám"
+    },
+    {
+      "english": "Stain",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Vết bẩn, vết gỉ"
+    },
+    {
+      "english": "Thermostat",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ điều nhiệt"
+    },
+    {
+      "english": "Vent",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cửa thông gió"
+    },
+    {
+      "english": "Water tap",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Vòi nước"
+    },
+    {
+      "english": "Activation key",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mã kích hoạt"
+    },
+    {
+      "english": "Apology",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lời xin lỗi"
+    },
+    {
+      "english": "Blade",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lưỡi, cánh"
+    },
+    {
+      "english": "Credit note",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ghi chú tín dụng"
+    },
+    {
+      "english": "Customer service",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dịch vụ khách hàng"
+    },
+    {
+      "english": "Detal",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chi tiết"
+    },
+    {
+      "english": "Disc rotor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đĩa ro-to"
+    },
+    {
+      "english": "Evidence",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bằng chứng"
+    },
+    {
+      "english": "Gesture",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hành động"
+    },
+    {
+      "english": "Goodwill",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiện ý"
+    },
+    {
+      "english": "Inconvenience",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bất tiện"
+    },
+    {
+      "english": "Investigation",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự điều tra"
+    },
+    {
+      "english": "Invoice",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hóa đơn"
+    },
+    {
+      "english": "Query",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Câu hỏi"
+    },
+    {
+      "english": "Reduction",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự giảm giá"
+    },
+    {
+      "english": "Shipment",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự chuyển hàng"
+    },
+    {
+      "english": "Sympathy",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự dồng tình"
+    },
+    {
+      "english": "Transaction",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự giao dịch"
+    },
+    {
+      "english": "Vane",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cánh quạt máy bay"
+    },
+    {
+      "english": "Charge",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tính giá"
+    },
+    {
+      "english": "Deal",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Giải quyết, đối phó"
+    },
+    {
+      "english": "Handle",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Giải quyết, đối phó"
+    },
+    {
+      "english": "Summarise",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tóm tắt"
+    },
+    {
+      "english": "Sympathise",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thông cảm, đồng tình"
+    },
+    {
+      "english": "Bar graph",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Biểu đồ cột"
+    },
+    {
+      "english": "Line graph",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Biểu đồ đường"
+    },
+    {
+      "english": "Represent",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Trình bày"
+    },
+    {
+      "english": "Demonstrate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Biểu thị"
+    },
+    {
+      "english": "Illustrate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Minh họa"
+    },
+    {
+      "english": "Refer",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nhắc tới, đề cập tới"
+    },
+    {
+      "english": "Percentage",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tỷ lệ"
+    },
+    {
+      "english": "Trend",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xu hướng"
+    },
+    {
+      "english": "Figure",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hình minh họa"
+    },
+    {
+      "english": "Upward",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hướng lên"
+    },
+    {
+      "english": "Downward",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hướng xuống"
+    },
+    {
+      "english": "Rise",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tăng"
+    },
+    {
+      "english": "Decline",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Giảm"
+    },
+    {
+      "english": "Remain",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Còn lại"
+    },
+    {
+      "english": "Level off",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dao động"
+    },
+    {
+      "english": "Fluctuate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dao động"
+    },
+    {
+      "english": "Significant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Quan trọng, đáng kể"
+    },
+    {
+      "english": "Slight",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nhẹ, không đáng kể"
+    },
+    {
+      "english": "Dramatic",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đột ngột"
+    },
+    {
+      "english": "Gradual",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dần dần"
+    },
+    {
+      "english": "Steady",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đều đặn"
+    },
+    {
+      "english": "Constant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Không đổi"
+    },
+    {
+      "english": "Peak",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đạt tới đỉnh"
+    },
+    {
+      "english": "Account for",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chiếm, gây ra"
+    },
+    {
+      "english": "Majority",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phần lớn, đa số"
+    },
+    {
+      "english": "Minority",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phần ít, thiểu số"
+    },
+    {
+      "english": "Impact",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ảnh hưởng"
+    },
+    {
+      "english": "Achivement",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thành tựu"
+    },
+    {
+      "english": "Commitment",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự cam kết"
+    },
+    {
+      "english": "Curiculum",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sơ yếu lí lịch"
+    },
+    {
+      "english": "Enthusiasm",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nhiệt tình"
+    },
+    {
+      "english": "Interpersional",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kĩ năng cá nhân"
+    },
+    {
+      "english": "Leadership",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kĩ năng lãnh đạo"
+    },
+    {
+      "english": "Networking",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tạo dựng mối quan hệ"
+    },
+    {
+      "english": "Professional development",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phát triển nghề nghiệp"
+    },
+    {
+      "english": "Qualification",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phầm chất, năng lực"
+    },
+    {
+      "english": "Reference",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chứng nhận"
+    },
+    {
+      "english": "Scholarship",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hộc bổng"
+    },
+    {
+      "english": "Similar",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hội thảo"
+    },
+    {
+      "english": "Strategy",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chiến lược"
+    },
+    {
+      "english": "Strength",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Điểm mạnh"
+    },
+    {
+      "english": "Technical experience",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chuyên môn kỹ thuật"
+    },
+    {
+      "english": "Weakness",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Điểm yếu"
+    },
+    {
+      "english": "Evaluate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đánh giá"
+    },
+    {
+      "english": "Execute",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thực hiện"
+    },
+    {
+      "english": "Observe",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Quan sát"
+    },
+    {
+      "english": "When it come to",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đề cập đến"
+    },
+    {
+      "english": "Long-term",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dài hạn"
+    },
+    {
+      "english": "Motivated",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Có động lực"
+    },
+    {
+      "english": "Short-term",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ngắn hạn"
+    },
+    {
+      "english": "Agenda",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chương trình nghị sự"
+    },
+    {
+      "english": "Action point",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phương hướng thực hiện"
+    },
+    {
+      "english": "Call a meeting",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Triệu tập cuộc họp"
+    },
+    {
+      "english": "Charperson",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chủ tịch"
+    },
+    {
+      "english": "Changeover",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự điều chỉnh"
+    },
+    {
+      "english": "Clog",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tắc, nghẽn"
+    },
+    {
+      "english": "Condenser",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiết bị ngưng"
+    },
+    {
+      "english": "Contract out",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Rút lui"
+    },
+    {
+      "english": "Drain line",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ống thoát nước"
+    },
+    {
+      "english": "Expand",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mở rộng, khai triển"
+    },
+    {
+      "english": "Flexible",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Linh động"
+    },
+    {
+      "english": "Humidifier",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ làm ẩm"
+    },
+    {
+      "english": "Implementation",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sự thực hiện, thi công"
+    },
+    {
+      "english": "Initial",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đầu tiên"
+    },
+    {
+      "english": "Interrupt",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ngắt lời, chen ngang"
+    },
+    {
+      "english": "Irelevant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Không liên quan"
+    },
+    {
+      "english": "Issue",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Vấn đề"
+    },
+    {
+      "english": "Minutes",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Biên bản cuộc họp"
+    },
+    {
+      "english": "Scheme",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Kế hoạch"
+    },
+    {
+      "english": "Participant",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thành viên"
+    },
+    {
+      "english": "Polish",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lau, đánh bóng"
+    },
+    {
+      "english": "Guideline",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nguyên tắc làm việc"
+    },
+    {
+      "english": "Latch",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Chốt"
+    },
+    {
+      "english": "Peripheral",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiết bị ngoại vi"
+    },
+    {
+      "english": "Spudger",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cái nậy"
+    },
+    {
+      "english": "Tweezers",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nhíp"
+    },
+    {
+      "english": "Reboot",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Khởi động lại"
+    },
+    {
+      "english": "Reverse",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đảo ngược"
+    },
+    {
+      "english": "Secure",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Siết chặt"
+    },
+    {
+      "english": "Slide",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Trượt"
+    },
+    {
+      "english": "Unplug",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ngắt kết nối"
+    },
+    {
+      "english": "Align",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xếp thẳng hàng"
+    },
+    {
+      "english": "Detach",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tháo"
+    },
+    {
+      "english": "Disconnect",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Mất kết nối"
+    },
+    {
+      "english": "Lift",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nhấc lên"
+    },
+    {
+      "english": "Mend",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Sửa đổi"
+    },
+    {
+      "english": "Pry",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Nâng lên"
+    },
+    {
+      "english": "External",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bên ngoài"
+    },
+    {
+      "english": "Internal",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bên trong"
+    },
+    {
+      "english": "Arithmetic logic unit",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ logic toán học"
+    },
+    {
+      "english": "Programmer logic contronller",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiết bị điều khiển lập trình"
+    },
+    {
+      "english": "Input/output",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đầu vào/đầu ra"
+    },
+    {
+      "english": "Inlet/outlet",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lối vào/lối ra"
+    },
+    {
+      "english": "Process",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Xử lý"
+    },
+    {
+      "english": "Absorb",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Hấp thụ"
+    },
+    {
+      "english": "Pressure",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Áp lực"
+    },
+    {
+      "english": "Disable",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Ngăn chặn, cấm"
+    },
+    {
+      "english": "Enable",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cho phép"
+    },
+    {
+      "english": "Evaporate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bay hơi"
+    },
+    {
+      "english": "Suction line",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đường hút"
+    },
+    {
+      "english": "Discharge line",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đường xả"
+    },
+    {
+      "english": "Ambient air",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Không khí bên ngoài"
+    },
+    {
+      "english": "Liquid line",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đường dẫn lỏng"
+    },
+    {
+      "english": "Solenoid",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Cuộn dây hình ống"
+    },
+    {
+      "english": "Filter drier",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ sấy lọc"
+    },
+    {
+      "english": "Metering device",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiết bị điều khiển lượng"
+    },
+    {
+      "english": "Cache",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bộ nhớ đệm"
+    },
+    {
+      "english": "Transistor",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thiết bị bán dẫn"
+    },
+    {
+      "english": "Command",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Lệnh"
+    },
+    {
+      "english": "Flow",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dòng"
+    },
+    {
+      "english": "Calculate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tính toán"
+    },
+    {
+      "english": "Decode",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Giải mã"
+    },
+    {
+      "english": "Manipulate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Điều khiển"
+    },
+    {
+      "english": "Radiate",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Bức xạ"
+    },
+    {
+      "english": "Fetch",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tìm nạp"
+    },
+    {
+      "english": "Sequences",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Trình tự"
+    },
+    {
+      "english": "Arithmetic",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Thuật toán"
+    },
+    {
+      "english": "Parentheses",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Dấu ngoặc đơn"
+    },
+    {
+      "english": "Subtraction",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Phép trừ"
+    },
+    {
+      "english": "Likewise for obj and obj",
+
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Tương tự"
+    },
+    {
+      "english": "Represent",
+      "desImg": "",
+      "type": "",
+      "vietnamese": "Đại diện"
+    }
+  ]
+}

@@ -11,6 +11,8 @@ const indexRouter = require("./routes/index");
 const usersRouter = require("./routes/users");
 const authRouter = require("./routes/auth");
 const invoiceRouter = require("./routes/invoice");
+// Imports the Google Cloud client library
+const textToSpeech = require('@google-cloud/text-to-speech');
 
 const app = express();
 

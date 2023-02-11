@@ -7,6 +7,8 @@
 var app = require("../app");
 var debug = require("debug")("express:server");
 var http = require("http");
+const https = require("https");
+const fs = require("fs");
 const { Server } = require("socket.io");
 const { faker } = require("@faker-js/faker");
 /**
@@ -20,16 +22,17 @@ app.set("port", port);
  * Create HTTP server.
  */
 
-var server = http.createServer(app);
+const options = {
+  key: fs.readFileSync(__dirname + "/certificates/key.pem", "ascii"),
+  cert: fs.readFileSync(__dirname + "/certificates/cert.pem", "ascii"),
+};
 
-const io = new Server(server, {
-  cors: "*",
-  // options
-});
+var server = https.createServer(options, app);
 
-setInterval(() => io.emit("message", faker.random.words(Math.floor(Math.random() * 100) + 1)), 5000);
-
-// io.listen(3001);
+// const io = new Server(server, {
+//   cors: "*",
+//   // options
+// });
 
 /**
  * Listen on provided port, on all network interfaces.

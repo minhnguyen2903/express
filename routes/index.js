@@ -1,8 +1,9 @@
 const express = require("express");
+const fs = require("fs");
 const verityToken = require("../middleware/verifyToken");
-const router = express.Router();
 const db = require("../models");
-
+const router = express.Router();
+const vocabulary = require("./vocabulary.json");
 /* GET home page. */
 router.get("/", function (req, res, next) {
   console.log("user access");
@@ -13,13 +14,16 @@ router.get("/mount", async function (req, res, next) {
   // db.users.create()
   await db.timezones.sync();
   await db.invoices.sync();
+  await db.vocabulary.sync();
+  const { vocabularies } = vocabulary;
   const timezoneCount = await db.timezones.count();
-  const invoiceCount = await db.invoices.count();
-
+  const vocabularyCount = await db.vocabulary.count();
   !timezoneCount &&
     timezones.forEach((element) => db.timezones.create(element));
-  !invoiceCount && invoices.forEach((element) => db.invoices.create(element));
-
+  !vocabularyCount &&
+    vocabularies.forEach((element) => {
+      db.vocabulary.create(element);
+    });
   res.send("mount done!");
 });
 
